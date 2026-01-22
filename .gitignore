@@ -1,0 +1,14 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.wav
+
+# Virtual environments
+.venv
+
+# Others
+.env
+default_prompt2.py
