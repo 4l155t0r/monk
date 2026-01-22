@@ -1,4 +1,4 @@
-# Project Plan: Your First Voice AI Assistant
+# Project Plan: Your First Voice AI Assistant !!!(NOT UPDATED)!!!
 
 **Project Goal:** To build a simple, voice-controlled AI assistant that listens to your microphone, gets a response from Gemini, and speaks the answer back to you, all running in a continuous loop.
 
